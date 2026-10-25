@@ -1,5 +1,5 @@
 {
- "version": "2.0.46",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.46/trainingsplan.apk",
- "notes": "Release-Pipeline: version.json zuerst auf main pushen, dann Release anlegen (leeres Repo)"
+ "version": "2.0.47",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.47/trainingsplan.apk",
+ "notes": "Balkendiagramm je Einheit (Einlaufen, Intervalle, Pausen, Auslaufen); Fix: lockere Radeinheiten zeigten Wettkampftempo-Blöcke; Schwimm-Sätze an Dauer angepasst"
 }
