@@ -1,5 +1,5 @@
 {
- "version": "2.0.47",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.47/trainingsplan.apk",
- "notes": "Balkendiagramm je Einheit (Einlaufen, Intervalle, Pausen, Auslaufen); Fix: lockere Radeinheiten zeigten Wettkampftempo-Blöcke; Schwimm-Sätze an Dauer angepasst"
+ "version": "2.0.48",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.48/trainingsplan.apk",
+ "notes": "V2.0: Wochenvergleich, Erholungs-Score, Rekorde, Zwischenmarken, Aufwärm-Links, Verpflegung+Einkauf, Packliste, Woche teilen, Saison-Bericht, Schriftgröße, Einführung, Beispielprofil, Feedback"
 }
