@@ -1,6 +1,6 @@
 {
- "version": "2.0.53",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.53/trainingsplan.apk",
- "notes": "Neu: Einheiten per GPS aufzeichnen (Zeit, Distanz, Pace, Höhenmeter) und Puls per Bluetooth-Brustgurt messen – Knopf „Aufzeichnen“ bei Lauf- und Rad-Einheiten. Erlaube Standort und Bluetooth, wenn die App fragt.",
- "notesEn": "New: record sessions by GPS (time, distance, pace, elevation) and measure heart rate with a Bluetooth chest strap – “Record” button on run and bike sessions. Allow location and Bluetooth when asked."
+ "version": "2.0.54",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.54/trainingsplan.apk",
+ "notes": "Neu: Garmin-Synchronisation mit deinem persönlichen API-Schlüssel (Aktivitäten, Ruhepuls, HRV, Schlaf), der Schlüssel liegt verschlüsselt im Android-Keystore. Außerdem GPS- und Pulsgurt-Aufzeichnung bei Lauf- und Rad-Einheiten.",
+ "notesEn": "New: Garmin sync with your personal API key (activities, resting HR, HRV, sleep), the key is stored encrypted in the Android keystore. Plus GPS and HR-strap recording on run and bike sessions."
 }
