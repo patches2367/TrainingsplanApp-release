@@ -1,6 +1,6 @@
 {
- "version": "2.0.58",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.58/trainingsplan.apk",
- "notes": "Neu bei Garmin: Pulszonen und Max-Puls direkt von deiner Uhr, Erholungs-Score mit Body Battery, Schlafqualität und HRV-Status, Trainingseffekt und Zeit in Zonen im Feedback jeder Einheit. Einstellungen → Garmin → „Jetzt synchronisieren“.",
- "notesEn": "New with Garmin: heart-rate zones and max HR straight from your watch, recovery score with Body Battery, sleep score and HRV status, training effect and time in zones in each session's feedback. Settings → Garmin → “Sync now”."
+ "version": "2.0.59",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.59/trainingsplan.apk",
+ "notes": "Neu bei Garmin: Gewicht und Körperfett werden automatisch übernommen, das Fitnessalter erscheint im Formzustand. Davor neu: Pulszonen von der Uhr, Erholungs-Score mit Body Battery, Trainingseffekt im Feedback.",
+ "notesEn": "New with Garmin: weight and body fat are imported automatically, fitness age shows in the form status. Before: watch HR zones, recovery score with Body Battery, training effect in feedback."
 }
