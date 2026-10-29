@@ -1,6 +1,6 @@
 {
- "version": "2.0.54",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.54/trainingsplan.apk",
+ "version": "2.0.55",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.55/trainingsplan.apk",
  "notes": "Neu: Garmin-Synchronisation mit deinem persönlichen API-Schlüssel (Aktivitäten, Ruhepuls, HRV, Schlaf), der Schlüssel liegt verschlüsselt im Android-Keystore. Außerdem GPS- und Pulsgurt-Aufzeichnung bei Lauf- und Rad-Einheiten.",
  "notesEn": "New: Garmin sync with your personal API key (activities, resting HR, HRV, sleep), the key is stored encrypted in the Android keystore. Plus GPS and HR-strap recording on run and bike sessions."
 }
