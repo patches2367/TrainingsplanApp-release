@@ -1,5 +1,5 @@
 {
- "version": "2.0.50",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.50/trainingsplan.apk",
- "notes": "Einheiten-Typ mit Genauigkeits-Hinweis, Gelände-Option, Feedback nach Speichern, Formzustand-Chart"
+ "version": "2.0.51",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.51/trainingsplan.apk",
+ "notes": "VO2max im Profil und grober VO2max-Test (Cooper, 2,4 km), fließt in den Formzustand"
 }
