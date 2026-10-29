@@ -1,6 +1,6 @@
 {
- "version": "2.0.52",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.52/trainingsplan.apk",
- "notes": "Neu: vier Maskottchen mit Fragezeichen-Hilfe, Typ und Genauigkeits-Hinweis bei jeder Einheit, Gelände-Option für Läufe, Feedback nach dem Speichern, Formzustand-Chart, VO₂max im Profil und Test.",
- "notesEn": "New: four mascots with question-mark help, type and accuracy hints on every session, terrain option for runs, feedback after saving, form status chart, VO₂max in the profile and a test."
+ "version": "2.0.53",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.53/trainingsplan.apk",
+ "notes": "Neu: Einheiten per GPS aufzeichnen (Zeit, Distanz, Pace, Höhenmeter) und Puls per Bluetooth-Brustgurt messen – Knopf „Aufzeichnen“ bei Lauf- und Rad-Einheiten. Erlaube Standort und Bluetooth, wenn die App fragt.",
+ "notesEn": "New: record sessions by GPS (time, distance, pace, elevation) and measure heart rate with a Bluetooth chest strap – “Record” button on run and bike sessions. Allow location and Bluetooth when asked."
 }
