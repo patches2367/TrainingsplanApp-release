@@ -1,6 +1,6 @@
 {
- "version": "2.0.57",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.57/trainingsplan.apk",
- "notes": "Neu: Garmin-Synchronisation mit deinem persönlichen API-Schlüssel (Aktivitäten, Ruhepuls, HRV, Schlaf), der Schlüssel liegt verschlüsselt im Android-Keystore. Außerdem GPS- und Pulsgurt-Aufzeichnung bei Lauf- und Rad-Einheiten.",
- "notesEn": "New: Garmin sync with your personal API key (activities, resting HR, HRV, sleep), the key is stored encrypted in the Android keystore. Plus GPS and HR-strap recording on run and bike sessions."
+ "version": "2.0.58",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.58/trainingsplan.apk",
+ "notes": "Neu bei Garmin: Pulszonen und Max-Puls direkt von deiner Uhr, Erholungs-Score mit Body Battery, Schlafqualität und HRV-Status, Trainingseffekt und Zeit in Zonen im Feedback jeder Einheit. Einstellungen → Garmin → „Jetzt synchronisieren“.",
+ "notesEn": "New with Garmin: heart-rate zones and max HR straight from your watch, recovery score with Body Battery, sleep score and HRV status, training effect and time in zones in each session's feedback. Settings → Garmin → “Sync now”."
 }
