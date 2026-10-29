@@ -1,5 +1,6 @@
 {
- "version": "2.0.51",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.51/trainingsplan.apk",
- "notes": "VO2max im Profil und grober VO2max-Test (Cooper, 2,4 km), fließt in den Formzustand"
+ "version": "2.0.52",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.52/trainingsplan.apk",
+ "notes": "Neu: vier Maskottchen mit Fragezeichen-Hilfe, Typ und Genauigkeits-Hinweis bei jeder Einheit, Gelände-Option für Läufe, Feedback nach dem Speichern, Formzustand-Chart, VO₂max im Profil und Test.",
+ "notesEn": "New: four mascots with question-mark help, type and accuracy hints on every session, terrain option for runs, feedback after saving, form status chart, VO₂max in the profile and a test."
 }
