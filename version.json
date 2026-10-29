@@ -1,5 +1,5 @@
 {
- "version": "2.0.49",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.49/trainingsplan.apk",
- "notes": "Maskottchen (Flink, Gipfel, Plitsch, Quant) mit Stimmungen und Fragezeichen-Hilfe, abschaltbar in den Einstellungen"
+ "version": "2.0.50",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.50/trainingsplan.apk",
+ "notes": "Einheiten-Typ mit Genauigkeits-Hinweis, Gelände-Option, Feedback nach Speichern, Formzustand-Chart"
 }
