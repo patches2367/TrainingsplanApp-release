@@ -1,6 +1,6 @@
 {
- "version": "2.0.62",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.62/trainingsplan.apk",
- "notes": "Neu: Bei Garmin-Läufen und -Fahrten kannst du die Strecke laden – mit Karte (nach Pulszone gefärbt), Höhenprofil, Pulsverlauf, Pulsdrift und Kilometer-Zeiten. Davor neu: Gewicht, Körperfett und Fitnessalter von Garmin.",
- "notesEn": "New: for Garmin runs and rides you can load the route – with a map (coloured by heart-rate zone), elevation profile, heart-rate trace, drift and kilometre splits. Before: weight, body fat and fitness age from Garmin."
+ "version": "2.0.63",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.63/trainingsplan.apk",
+ "notes": "Neu: Experimentell-Modus (Einstellungen). Er blendet den Tab „Garmin“ ein: alle Garmin-Zahlen (Ruhepuls, HRV, Schlaf, Body Battery, Stress, Schritte, SpO₂, Atmung, Gewicht, Aktivitäten) als Diagramm und Tabelle, dazu jedes Feld einzeln. Davor: Streckenkarte mit Pulsdrift, neues App-Icon.",
+ "notesEn": "New: Experimental mode (Settings). It adds a “Garmin” tab: every Garmin number (resting HR, HRV, sleep, Body Battery, stress, steps, SpO₂, breathing, weight, activities) as chart and table, plus any single field. Before: route map with heart-rate drift, new app icon."
 }
