@@ -1,6 +1,6 @@
 {
- "version": "2.0.63",
- "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.63/trainingsplan.apk",
- "notes": "Neu: Experimentell-Modus (Einstellungen). Er blendet den Tab „Garmin“ ein: alle Garmin-Zahlen (Ruhepuls, HRV, Schlaf, Body Battery, Stress, Schritte, SpO₂, Atmung, Gewicht, Aktivitäten) als Diagramm und Tabelle, dazu jedes Feld einzeln. Davor: Streckenkarte mit Pulsdrift, neues App-Icon.",
- "notesEn": "New: Experimental mode (Settings). It adds a “Garmin” tab: every Garmin number (resting HR, HRV, sleep, Body Battery, stress, steps, SpO₂, breathing, weight, activities) as chart and table, plus any single field. Before: route map with heart-rate drift, new app icon."
+ "version": "2.0.64",
+ "url": "https://github.com/patches2367/TrainingsplanApp-release/releases/download/v2.0.64/trainingsplan.apk",
+ "notes": "Neu: Schlaf wird im Schlafreport als Stunden:Minuten eingegeben (z. B. 7:30). Davor: Experimentell-Modus mit Garmin-Tab, Streckenkarte mit Pulsdrift.",
+ "notesEn": "New: sleep is entered as hours:minutes in the sleep report (e.g. 7:30). Before: Experimental mode with Garmin tab, route map with heart-rate drift."
 }
